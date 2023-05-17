@@ -1,1 +1,16 @@
-,DESKTOP-9BRTCQP/Irene,DESKTOP-9BRTCQP,17.05.2023 11:49,file:///C:/Users/Irene/AppData/Roaming/LibreOffice/4;
+Regra de @keyframes CSS
+
+Definição e Uso
+A regra especifica o código de animação.@keyframes
+
+A animação é criada mudando gradualmente de um conjunto de estilos CSS para outro.
+
+Durante a animação, você pode alterar o conjunto de estilos CSS muitas vezes.
+
+Especifique quando a mudança de estilo ocorrerá em porcentagem ou com as palavras-chave "de" e "para", que é o mesmo que 0% e 100%. 0% é o início da animação, 100% é quando a animação está completa.
+
+Ponta: Para obter o melhor suporte ao navegador, você deve sempre definir os seletores de 0% e 100%.
+
+Nota: Use as propriedades da animação para controlar a aparência da animação e também para vincular a animação aos seletores.
+
+Nota: A regra !important é ignorada em um quadro-chave (Veja o último exemplo nesta página).

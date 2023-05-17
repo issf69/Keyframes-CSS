@@ -2,7 +2,7 @@
 Keyframes-CSS
  </p>
  <p align="center">
- <a href="https://youtu.be/awbGZqPxuis"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://youtu.be/efS6ccEdSS0"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </p>
   
   
@@ -44,6 +44,10 @@ Morphing ou morph é um efeito especial de computação gráfica que permite uma
 ## 🔎 Fontes para pesquisa:  
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
+
+🎥 [👀 Assistir o vídeo Desenvolvendo habilidades CSS](https://youtu.be/efS6ccEdSS0)
+
+🎥 [👀 Assistir o vídeo atualização](https://youtu.be/0iU_1IvzYTM)
 
 🎥 [👀 Assistir o vídeo Keyframes-CSS](https://youtu.be/awbGZqPxuis)
 

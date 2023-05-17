@@ -7,7 +7,7 @@ Keyframes-CSS
   
   
   <p align="center">
-  <img alt="License" src="https://github.com/issf69/Keyframes-CSS/assets/105497075/ea380800-30d8-47f9-bb59-31d46110b9b8"width="450px">
+  <img alt="License" src="https://github.com/issf69/Keyframes-CSS/assets/105497075/bd0fbd96-4a50-451e-af5e-b09a3bf1ceae"width="450px">
    <br>
 
  

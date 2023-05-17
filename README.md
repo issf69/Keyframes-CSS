@@ -7,7 +7,7 @@ Keyframes-CSS
   
   
   <p align="center">
-  <img alt="License" src="https://github.com/issf69/CSS-Transitions-2/assets/105497075/f0df1596-0577-4c8f-a92a-89e3b5df2f40"width="350px">
+  <img alt="License" src="https://github.com/issf69/Keyframes-CSS/assets/105497075/ea380800-30d8-47f9-bb59-31d46110b9b8"width="450px">
    <br>
 
  
@@ -45,25 +45,25 @@ Morphing ou morph é um efeito especial de computação gráfica que permite uma
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
 
-🎥 [Keyframes-CSS](https://youtu.be/awbGZqPxuis)
+🎥 [👀 Assistir o vídeo Keyframes-CSS](https://youtu.be/awbGZqPxuis)
 
-🎥 [Assistir o vídeo do Projeto Desenvolvendo um Menu Hamburguer  com CSS Transitions](https://youtu.be/zrfSmAmAQW8)
+🎥 [👀Assistir o vídeo do Projeto Desenvolvendo um Menu Hamburguer  com CSS Transitions](https://youtu.be/zrfSmAmAQW8)
 
-🎥 [Assistir o vídeo do Projeto CSS Transitions](https://www.youtube.com/watch?v=TnGlAPn7J_8)
+🎥 [👀Assistir o vídeo do Projeto CSS Transitions](https://www.youtube.com/watch?v=TnGlAPn7J_8)
 
-💻[Regra de @keyframes CSS](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php)
+💻[👉 Regra de @keyframes CSS](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php)
 
-💻[Site Seletor de cores](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Colors/Color_picker_tool)
+💻[👉Site Seletor de cores](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Colors/Color_picker_tool)
 
-💻[Site Mozzila CSS-Transitions](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+💻[👉Site Mozzila CSS-Transitions](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
-💻[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+💻[👉Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-💻[Recursos para desenvolvedores,por desenvolvedores](https://developer.mozilla.org/pt-BR/)
+💻[👉Recursos para desenvolvedores,por desenvolvedores](https://developer.mozilla.org/pt-BR/)
 
-💻[Mais informações sobre HTML5](https://html5.org/)
+💻[👉👀Mais informações sobre HTML5](https://html5.org/)
 
-💻[Mais informações sobre CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
+💻[👉Mais informações sobre CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## :memo: Licença
 
